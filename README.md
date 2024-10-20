@@ -1,1 +1,2 @@
-# Sprint1
+# Description:
+he COVID-19 Indian Data Analysis Project aims to explore the trends and impact of the pandemic in India using real-world data. This project involves importing and cleaning COVID-19 datasets, followed by an exploratory analysis to visualize case trends, recoveries, and deaths across different states. Key metrics such as Recovery Rate will be calculated, along with visualizations to assess the effectiveness of interventions like lockdowns The project concludes with insights into how India managed the pandemic and potential predictive modeling for future trends. Tools like Pandas, Matplotlib, and Seaborn will be used for analysis in Jupyter Notebook.
